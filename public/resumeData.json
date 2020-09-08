@@ -1,40 +1,36 @@
 {
   "main": {
-    "name": "Sonny Sangha",
-    "occupation": "ReactJS Developer && Instructor @CleverProgrammer",
-    "description": "Full Stack React Developer by Day, Founder && Freelancer by Night. #papaReact",
-    "image": "IG_Sonny.jpeg",
-    "bio": "My name is Sonny, I'm a Full Stack ReactJS Developer. Currently I'm working at Clever Programmer while also coaching ",
+    "name": "Simon Bridgens",
+    "occupation": "ReactJS, C#.net, .net core & python/Django Developer",
+    "description": "Tech loving developer thriving in the challenge of our digital lives, on hand to help you achieve your online dreams.",
+    "warning": "Success Ahead!",
+    "image": "avatar.png",
+    "bio": "My name is Simon I am a back office developer and engineer, becoming a guru in frontend react development with the aid of the awesome team at cleverprogrammer.",
     "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
-    "email": "sonny@cleverprogrammer.com",
-    "phone": "+44 12 345 6789",
+    "email": "simon@schtech.co.uk",
+    "phone": "+44 7475 106 506",
     "address": {
       "street": "123 Fake Street",
       "city": "London",
       "state": "UK",
       "zip": "ABC 123"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload": "http://timbakerdev.com",
+    "website": "https://schtech.co.uk",
+    "resumedownload": "https://www.dropbox.com/s/hwrxrsqm0yh4ll6/Simon_Bridgens_CV_Long.pdf?dl=0",
     "social": [
       {
         "name": "facebook",
-        "url": "https://www.facebook.com/sonny.sangha.3",
+        "url": "https://www.facebook.com/simon.bridgens.16/",
         "className": "fa fa-facebook"
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/saajansangha/",
+        "url": "https://www.linkedin.com/in/simonbridgens/",
         "className": "fa fa-linkedin"
       },
       {
-        "name": "instagram",
-        "url": "https://www.instagram.com/ssssangha/",
-        "className": "fa fa-instagram"
-      },
-      {
         "name": "github",
-        "url": "http://github.com/sonnysangha",
+        "url": "https://github.com/sbridgens",
         "className": "fa fa-github"
       }
     ]
@@ -43,42 +39,54 @@
     "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
     "education": [
       {
-        "school": "University of Kent",
-        "degree": "Masters in Advanced Computer Science",
+        "school": "Offensive security",
+        "certificate": "OSCP/OSWP",
+        "graduated": "December 2017",
+        "description": "Qualified pentester"
+      },
+      {
+        "school": "Skills Gap",
+        "certificate": "MCSE",
+        "graduated": "December 2004",
+        "description": "Microsoft Certified Systems Engineer"
+      },
+      {
+        "school": "CISCO",
+        "certificate": "CCNA",
         "graduated": "January 2017",
-        "description": "Graduated with Distinction"
+        "description": "Cisco network engineer"
+      },
+      {
+        "school": "Multiple Industry certificates",
+        "certificate": "Broadcast certificates, programming certificates",
+        "graduated": "Ongoing",
+        "description": "Various industry engineering certificates, programming course certificates"
       }
     ],
     "work": [
       {
-        "company": "Clever Programmer",
-        "title": "Team Member && React Specialist",
-        "years": "April 2020 - Present",
-        "description": "Teaching ReactJS to thousands of students."
-      },
-      {
-        "company": "Lindar Media",
-        "title": "Software Engineer",
-        "years": "Nov 2019 - April 2020",
-        "description": "Building MrQ, a gambling website."
+        "company": "SCH Tech Ltd",
+        "title": "CEO, CTO",
+        "years": "April 2013 - Present",
+        "description": "Broadcast engineering and software development company specialising in systems workflows."
       }
     ],
     "skills": [
       {
         "name": "ReactJs",
-        "level": "100%"
+        "level": "50%"
       },
       {
         "name": "CSS",
-        "level": "95%"
+        "level": "50%"
       },
       {
         "name": "Git",
         "level": "60%"
       },
       {
-        "name": "Figma && Adobe XD",
-        "level": "55%"
+        "name": ".net / .net core",
+        "level": "85%"
       },
       {
         "name": "HTML5",
@@ -87,52 +95,68 @@
       {
         "name": "MongoDB",
         "level": "80%"
+      },
+      {
+        "name": "MySql & MSSQL",
+        "level": "80%"
+      },
+      {
+        "name": "Python & Django",
+        "level": "70%"
       }
     ]
   },
   "portfolio": {
     "projects": [
       {
-        "title": "MERN Stack WhatsApp Clone",
-        "category": "WhatsApp Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
-        "image": "whatsapp-mern.jpeg",
-        "url": "https://www.youtube.com/watch?v=gzdQDxzW2Tw"
+        "title": "End to End metadata enrichment with pre-emptive change detection",
+        "category": "Gracenote API Metadata enrichment (C#, MSSQL, API)",
+        "image": "Enrichment-Services-Overview-1536x1187.png",
+        "url": "https://schtech.co.uk/end-to-end-gracenote-metadata-enrichment/"
       },
       {
-        "title": "MERN Stack TikTok Clone",
-        "category": "TikTok Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
-        "image": "tiktok-mern.jpeg",
-        "url": "https://www.youtube.com/watch?v=g8yGxDMyGiE"
+        "title": "Gracenote API Metadata Enrichment",
+        "category": "Metadata Enrichment (C#, MSSQL, API)",
+        "image": "Laptop-1024x702-1.png",
+        "url": "https://schtech.co.uk/gracenote-metadata-enrichment-use-case/"
       },
       {
-        "title": "Facebook Clone with React",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "facebook-clone.png",
-        "url": "https://www.youtube.com/watch?v=B-kxUMHBxNo"
+        "title": "F# against Gracenote API",
+        "category": "API Parsing with F# (F#)",
+        "image": "Fsharp.png",
+        "url": "https://schtech.co.uk/f-testing-against-gracenote-api/"
       },
       {
-        "title": "Airbnb Clone",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "airbnb-clone.jpeg",
-        "url": "https://www.youtube.com/watch?v=BtJeH_-XYaA"
+        "title": "SMB LFI Exploitation",
+        "category": "PENTESTING: Exploiting Samba Local File Inclusion (SHELL)",
+        "image": "meterpreterphp.png",
+        "url": "https://schtech.co.uk/smb-lfi-exploitation/"
       },
       {
-        "title": "Netflix Clone",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "netflix-clone.jpeg",
-        "url": "https://www.youtube.com/watch?v=XtMThy8QKqU&t=9358s"
+        "title": "Marlin Video packaging",
+        "category": "Video encryption & Packaging (Python)",
+        "image": "packager_hero_image.png",
+        "url": "https://github.com/sbridgens/Marlin-Packager-Script/blob/master/marlin_packager.py"
       }
     ]
   },
   "testimonials": {
     "testimonials": [
       {
-        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user": "Kareem Abdul Jabbar"
+        "text": "I recruited Simon as a Systems Support Engineer at Quantel, and he rapidly became a highly valuable member of the team. Very hardworking and flexible, committed, and keen on learning new technologies. A good and popular engineer both internally and with customers. Very good industry knowledge and technical experience - highly recommended!",
+        "user": "James Kellar, Senior Director, Engineering Acceleration at Inmarsat"
       },
       {
-        "text": "That Sonny Sangha must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user": "Steve Wozniak... impersonator"
+        "text": "Simon is one of those guys that I can absolutely depend on to get the job done, whatever it takes, and I'm speaking from some tough experiences. He is completely focused on achieving the best result and I would be totally glad to work with him again. I cant recommend him highly enough.",
+        "user": "Colin MacPhail, Project Manager at Arqiva"
+      },
+      {
+        "text": "Simon joined EML early in the project and soon became an integral and important part of the team. His knowledge and committment to getting the software working for the areas under his control was of a high standard. His Army training and direct and concentrated approach meant issues were resolved quickly and efficiently. I liked working with Simon, he is easy to get on with and puts anyone who come into contact with him at their ease, plus his humour was ever evident and this made the project a much happier group to be with especially away from base. I have no hesitation in recommending Simon since he will be a very good asset to any project. He is articulate and speaks with authority on software and hardware systems and has good customer facing skills. I really do hope I can work again with him in the near future.",
+        "user": "Andrew Pearce, Project Design Engineer at VOLANT MEDIA UK LTD"
+      },
+      {
+        "text": "I Managed Simon as a Systems Support Engineer at Quantel. Simon's industry knowledge and technical experience is second to none. I have worked with Simon both in the factory and on Customer site and when the pressure is really on Simon has a fantastic ability to remain calm and focussed which gives a high level of confidence to the customer. He has a great ability to analyse the most technical of issues and either resolve them himself or provide highly detailed reports back to R&D which in turn provides a fast turn around for the customer. Simon is extremely professional and knowledgeable which is why he is highly recommended by me",
+        "user": "Andy Moore,Production Test Manager"
       }
     ]
   }
